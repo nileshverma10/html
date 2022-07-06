@@ -1,0 +1,29 @@
+body{
+    background-color: orange;
+}
+.para{
+    margin-top: 30px;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-image: url(nature.jpg);
+    color: white;
+    border-radius: 50px;
+    margin-right: 200px;
+    
+}
+
+.some{
+    font-style: oblique;
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-right: 20px;
+    background-image: url(nature2.jpg);
+    color: white;
+}
+.para2{
+    font-size: 20px;
+    margin-top: 50px;
+    margin: 20px 20px;
+    background-color: aliceblue;
+}
