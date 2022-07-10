@@ -1,0 +1,53 @@
+body{
+    background-color: grey;
+}
+
+.container{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+.choo{
+    height: 80px;
+    padding-left: 100px;
+    padding-top: 20px;
+    
+}
+
+.tut{
+    display: inline;
+    float: right;
+    padding: 8px;
+    font-size: large;
+    font-weight: 500;
+    font-style: oblique;
+    
+}
+
+.chat{
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+.mat{
+    margin: 0 0;
+    margin-left: 410px;
+    font-size:20px;
+}
+
+.yash{
+    margin-top: 50px;
+    margin-left: 450px;
+    font-weight: bold;
+
+}
+
+.ttt{
+    margin-left: 450px; 
+    height: 45px;
+    width: 330px;
+    border-radius: 10px;
+}
+
+
